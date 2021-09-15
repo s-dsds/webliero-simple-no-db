@@ -1,0 +1,8 @@
+const CONFIG = {
+    admins: [""],
+    hidden: [""], /* users not given admin on joining the room but able to get admin by typing !admin */
+    discord_invite: "https://discord.gg/hW9UCgR",
+    public: false,
+    room_name:  "Daro Promode ReRevisited [24/7]",
+    room_motd:  "Welcome to the Daro's Promode Room",
+};
